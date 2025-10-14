@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+env/  
+venv/
+.env/
+*.env
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+
+# Dataset files 
+*.csv  
+output.csv  
+*.tsv
+*.xlsx
+*.json
+
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode config
+.vscode/
+
+# Colab uploads
+*.zip
+*.rar
+
+# Token and config files
+tokenizer_config.json
+config.json
+special_tokens_map.json
+pytorch_model.bin
+
+wandb/
