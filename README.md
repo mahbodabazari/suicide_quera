@@ -50,7 +50,5 @@ The goal is to **classify text sentences** using both **Machine Learning** and *
    - Used embeddings and neural network layers (Dense / LSTM) for semantic analysis  
    - Achieved similar performance with **~80% accuracy**
 
-📊 The project aimed to compare traditional ML models with deep neural models in NLP classification tasks.
-
 📎 Google Colab Notebook:  
 [Google Colab Link](https://colab.research.google.com/drive/1_hM70Hauy-SRjYVbBWttB43-MtP92vw3)
